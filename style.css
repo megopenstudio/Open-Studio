@@ -334,16 +334,16 @@ font-size: 12px;
 .codinfox-changing-keywords{
   vertical-align:top;
   overflow:hidden;
-  height:40px;
+  height:80px;
   position:relative;
   display: inline-block;
-    width: 250px;
+    width: 500px;
 }
 .hidden{
   position:absolute;
-  top: 40px;
+  top: 80px;
   display:inline-block;
-  width:250px;
+  width:500px;
     opacity:0;
   animation: slideme 8s infinite;
 }
@@ -409,7 +409,14 @@ font-size: 12px;
 	gap: 8px 8px;
 	}
 
-
+.codinfox-changing-keywords{
+  height:40px;
+    width: 250px;
+}
+.hidden{
+  top: 40px;
+  width:250px;
+}
 
 	div.links {
 display: inline-flex;
