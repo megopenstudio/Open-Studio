@@ -331,10 +331,10 @@ font-size: 12px;
 .codinfox-changing-keywords{
   vertical-align:top;
   overflow:hidden;
-  height:80px;
+  height:40px;
   position:relative;
   display: inline-block;
-    width: 500px;
+    width: 250px;
 }
 .hidden{
   position:absolute;
