@@ -179,7 +179,7 @@ section.hello div.codinfox-sidebar-description {
 	white-space: nowrap; }
 
 section.hello div.codinfox-changing-keywords {
-	padding-left: 20px;
+	padding-left: 17px;
 }
 
 section.hello h1 {
@@ -314,6 +314,7 @@ section.contact img {
 
 section.contact p {
 	grid-column: 3 / span 5;
+	padding-top:0px;
 }
 
 footer {
@@ -504,6 +505,9 @@ display: inline-flex;
 	color:#F63A2D;
 	}
 
+	section.about h1 {
+		padding-top: 42px;
+
 	section.about div.left {
 		grid-column: 2/span 5;
 	}
@@ -515,6 +519,7 @@ display: inline-flex;
 	section.about div.big_text {
 		grid-column: 2 / span 5;
 		padding-top: 12px;
+		font-weight: bold;
 	}
 
 	section.about p {
@@ -577,15 +582,11 @@ display: inline-flex;
 	}
 
 	section.contact p {
-		grid-column: 2 / span 3;
+		grid-column: 2 / span 6;
 	}
 footer {
-	grid-column: 6/span2;
+	grid-column: 8/span1;
 	display: inline-flex;
-}
-
-div.footer_images img{
-	padding-right:10px;
 }
 
 	.tiny {
