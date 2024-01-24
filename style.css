@@ -506,6 +506,7 @@ display: inline-flex;
 
 	section.about h1 {
 		padding-top: 42px;
+	}
 
 	section.about div.left {
 		grid-column: 2/span 5;
@@ -584,7 +585,7 @@ display: inline-flex;
 		grid-column: 2 / span 6;
 	}
 footer {
-	grid-column: 8/span1;
+	grid-column: 8/span 1;
 }
 
 	.tiny {
