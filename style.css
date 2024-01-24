@@ -585,7 +585,6 @@ display: inline-flex;
 	}
 footer {
 	grid-column: 8/span1;
-	display: inline-flex;
 }
 
 	.tiny {
