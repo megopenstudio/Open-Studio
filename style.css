@@ -440,6 +440,7 @@ display: inline-flex;
 	header img {
 	grid-column: 2 / span 2;
 	  align-self: center;
+		    padding-top: 5px;
 	}
 
 	nav  {
