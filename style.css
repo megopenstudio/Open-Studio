@@ -319,7 +319,6 @@ section.contact p {
 
 footer {
 	grid-column: 11/span2;
-	display: inline-flex;
 }
 
 div.footer_images img{
