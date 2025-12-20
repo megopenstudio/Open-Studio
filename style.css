@@ -198,6 +198,11 @@ section.hello div.hi {
 	font-weight: lighter;
 }
 
+#change h1 {
+	font-family: caprasimo;
+	font-size: 48px;
+}
+
 section.hello a {
 	grid-column: 2 /span 12;
 	line-height: 8;
