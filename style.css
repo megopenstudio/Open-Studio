@@ -524,6 +524,11 @@ display: inline-flex;
 	font-size: 36px;
 	}
 
+	#change h1 {
+font-family: caprasimo;
+font-size: 36px;
+}
+
 	section.hello h2 {
 	font-family: caprasimo;
 	font-size: 36px;
